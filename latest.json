@@ -5,9 +5,9 @@
   "notes": "Atualização automática do KinSubstance v0.7.1.",
   "installer": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.7.1/KinSubstance-v0.7.1-Setup.exe",
   "portable": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.7.1/KinSubstance-v0.7.1-Windows-x64.zip",
-  "sha256": "6e7627e0ff0279d6762eece2fedf8d7e1795381abba47e86a5ffd5d2333352fe",
+  "sha256": "410d7d34a5a9bfface77e8b17295dd54c1e2d9659a07d25f5f9528d915cc0828",
   "release_url": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/tag/v0.7.1",
-  "published_at": "2026-09-30T16:37:19Z",
+  "published_at": "2026-09-30T17:05:44Z",
   "assets": [
     {
       "name": "KinSubstance-v0.7.1-Setup.exe",
@@ -15,7 +15,7 @@
       "arch": "x64",
       "type": "installer",
       "url": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.7.1/KinSubstance-v0.7.1-Setup.exe",
-      "sha256": "6e7627e0ff0279d6762eece2fedf8d7e1795381abba47e86a5ffd5d2333352fe"
+      "sha256": "410d7d34a5a9bfface77e8b17295dd54c1e2d9659a07d25f5f9528d915cc0828"
     },
     {
       "name": "KinSubstance-v0.7.1-Windows-x64.zip",
@@ -23,7 +23,7 @@
       "arch": "x64",
       "type": "portable",
       "url": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.7.1/KinSubstance-v0.7.1-Windows-x64.zip",
-      "sha256": "14af673fe30abeb10cea2c7e25ec45ae378101444f4052893a056f6551bd4929"
+      "sha256": "2a615b2169b27671aa5f0b5b229fe84e877652abb22edb6e9770dee7cd254a40"
     }
   ]
 }
