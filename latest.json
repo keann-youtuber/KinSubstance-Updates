@@ -5,9 +5,9 @@
   "notes": "KinSubstance v0.9.0 — UI renovada, ferramentas de pintura, PBR, baking, Smart Materials e correções.",
   "installer": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.9.0/KinSubstance-v0.9.0-Setup.exe",
   "portable": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.9.0/KinSubstance-v0.9.0-Windows-x64.zip",
-  "sha256": "4fa3f0490ec976598515cdfb276a7e61fa32248bec170ddb2dc552ae463d447f",
+  "sha256": "9cbe351114039c0d01f3f58630d030ff3fdd114ed78a391ff528a670c5ce2ff9",
   "release_url": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/tag/v0.9.0",
-  "published_at": "2026-10-02T00:52:52Z",
+  "published_at": "2026-10-02T00:57:37Z",
   "assets": [
     {
       "name": "KinSubstance-v0.9.0-Setup.exe",
@@ -15,7 +15,7 @@
       "arch": "x64",
       "type": "installer",
       "url": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.9.0/KinSubstance-v0.9.0-Setup.exe",
-      "sha256": "4fa3f0490ec976598515cdfb276a7e61fa32248bec170ddb2dc552ae463d447f"
+      "sha256": "9cbe351114039c0d01f3f58630d030ff3fdd114ed78a391ff528a670c5ce2ff9"
     },
     {
       "name": "KinSubstance-v0.9.0-Windows-x64.zip",
@@ -23,7 +23,7 @@
       "arch": "x64",
       "type": "portable",
       "url": "https://github.com/keann-youtuber/KinSubstance-Updates/releases/download/v0.9.0/KinSubstance-v0.9.0-Windows-x64.zip",
-      "sha256": "af510a186e46e7b0f33414eb5cbd3cf802a720cc6be3aea42fe0f8f91d88bfb2"
+      "sha256": "84ed623dd5b9b99eeec9a9f12de2cdecb7aa4f4d1aae5cdface3b1d0679f2a7d"
     }
   ]
 }
